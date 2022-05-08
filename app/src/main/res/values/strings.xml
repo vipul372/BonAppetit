@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bon Appétit</string>
+    <string name="api_key">0659a867a50e44f98948d1c7635e2958</string>
+
+    <string-array name="tags">
+        <item>Main course</item>
+        <item>Side dish</item>
+        <item>Dessert</item>
+        <item>Appetizer</item>
+        <item>Salad</item>
+        <item>Bread</item>
+        <item>Breakfast</item>
+        <item>Soup</item>
+        <item>Beverage</item>
+        <item>Sauce</item>
+        <item>Marinade</item>
+        <item>Fingerfood</item>
+        <item>Snack</item>
+        <item>Drink</item>
+    </string-array>
+</resources>
